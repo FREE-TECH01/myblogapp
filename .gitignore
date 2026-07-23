@@ -1,0 +1,32 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Database
+db.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Static
+staticfiles/
+
+# Media
+media/
+
+# Logs
+*.log
+
+venv/
+my_env/
+env/
